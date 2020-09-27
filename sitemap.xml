@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://blog.whatc.xyz/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.whatc.xyz/tags/image/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
@@ -29,6 +24,11 @@
   
   <url>
     <loc>https://blog.whatc.xyz/posts/the-figure-shortcode/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.whatc.xyz/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
